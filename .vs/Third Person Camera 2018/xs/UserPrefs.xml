@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{9CC7C1E5-A63A-760E-94D0-D9274025A7E6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ObjectMinder.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MovementInput.cs" Line="88" Column="9" />
+      <File FileName="Assets/ObjectMinder.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
